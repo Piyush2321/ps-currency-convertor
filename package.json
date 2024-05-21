@@ -1,0 +1,26 @@
+{
+  "name": "ps-currency-converter",
+  "version": "1.0.0",
+  "description": "An npm package to convert currency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Piyush2321/ps-currency-convertor.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "piyush sharma",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Piyush2321/ps-currency-convertor/issues"
+  },
+  "homepage": "https://github.com/Piyush2321/ps-currency-convertor#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
